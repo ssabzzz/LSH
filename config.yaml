@@ -1,0 +1,7 @@
+dataFile: 'data\articles_100.train'
+validationFile: 'data\articles_100.truth'
+similarity: 0.6
+number_of_hashFunctions: 50
+r: 5
+b: 10
+shingleNumber: 1
